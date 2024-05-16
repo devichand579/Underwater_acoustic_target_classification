@@ -32,10 +32,10 @@ Architecture of AST.
 ## References
 if you find this work useful, please cite this repository:
 ```bash
-@software{Budagam_ROLEBENCH-_A_Role_2024,
+@software{Budagam_A_Novel_Approach_2024,
 author = {Budagam, Devichand},
 month = may,
-title = {{ROLEBENCH- A Role Prompting Benchmark}},
+title = {{A Novel Approach to Underwater Acoustic Target Classification with MelGAN and Audio Spectrogram Transformer}},
 url = {https://github.com/devichand579/ROLEBENCH},
 year = {2024}
 }

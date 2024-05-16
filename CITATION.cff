@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Budagam"
+  given-names: "Devichand"
+
+
+title: "A Novel Approach to Underwater Acoustic Target Classification with MelGAN and Audio Spectrogram Transformer"
+date-released: 2024-05-16
+url: "https://github.com/devichand579/ROLEBENCH"

@@ -3,6 +3,8 @@ message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Budagam"
   given-names: "Devichand"
+- family-names: "Manikandan"
+  given-names: "Sabarimalai"
 
 
 title: "A Novel Approach to Underwater Acoustic Target Classification with MelGAN and Audio Spectrogram Transformer"

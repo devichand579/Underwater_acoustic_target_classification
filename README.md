@@ -2,7 +2,7 @@
 
 This work implements Audio Spectrogram Transformer on ShipsEar Database (A private underwater vessel noise database) which serves as the benchmark for various models on underwater noise classification. Training Dataset was expanded by generation of synthetic audio samples using MelGAN.
 
-- Refer to the document for further details 📖
+- Refer to the [document](./features.pdf) for further details 📖
 
 ## Data Format
 ![Data](imgs/data.png)

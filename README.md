@@ -36,7 +36,7 @@ if you find this work useful, please cite this repository:
 author = {Budagam Devichand and Manikandan Sabarimalai},
 month = may,
 title = {{A Novel Approach to Underwater Acoustic Target Classification with MelGAN and Audio Spectrogram Transformer}},
-url = {https://github.com/devichand579/ROLEBENCH},
+url = {https://github.com/devichand579/Underwater_acoustic_target_classification},
 year = {2024}
 }
 ```

@@ -31,7 +31,7 @@ Architecture of AST.
 
 ## References
 if you find this work useful, please cite this repository:
-```bash
+```bibtex
 @software{Budagam_A_Novel_Approach_2024,
 author = {Budagam Devichand and Manikandan Sabarimalai},
 month = may,
